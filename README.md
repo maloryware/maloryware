@@ -1,6 +1,6 @@
 he/they
 
-hi folx, the name's malory
+hi folx, the name's malory.
 i do a bit of everything and am a master of absolutely fuckin nothing
 
 
