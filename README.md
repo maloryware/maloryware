@@ -1,3 +1,6 @@
+### Contribute to my projects!
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/maloryware) 
+
 # 💫 About Me:
 🖥️ 42 Network Student - current Milestone: `0`<br>⛏️ Minecraft Mod Developer<br>🧑‍🔬 Developers who have inspired me: [Motschen](https://github.com/Motschen), [Saiyan](https://gitlab.com/supersaiyansubtlety), [Rina](https://github.com/Pixaurora), [Hibi](https://github.com/hibiii), [Blay](https://github.com/BlayTheNinth)<br>⛓️‍💥 Prioritizing open-source!<br>🧑‍💻 Java, C, Python, Dart, JavaScript.<br>🏞️ Arch-Linux!<br>⚡ Interested in Cybersecurity & OSINT-based investigation<br>🕵️ Freedom of Information matters! Learn about [TailsOS](https://tails.net) & [Autistici/Inventati](https://www.autistici.org/), my email provider of choice. 
 
@@ -15,16 +18,12 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=maloryware&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### Extra
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=maloryware&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 [![](https://visitcount.itsvg.in/api?id=maloryware&icon=0&color=4)](https://visitcount.itsvg.in)
-
-## 💰 Donate to my projects!
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/maloryware) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
