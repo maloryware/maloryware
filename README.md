@@ -3,7 +3,8 @@
 
 # 💫 About Me:
 🖥️ 42 Network Student - current Milestone: `1`<br>
-⛏️ Minecraft Mod Developer & Server Hoster/Manager - **DM for consultations!**<br>🧑‍🔬 Developers who have inspired me: [Motschen](https://github.com/Motschen), [Saiyan](https://gitlab.com/supersaiyansubtlety), [Rina](https://github.com/Pixaurora), [Hibi](https://github.com/hibiii), [Blay](https://github.com/BlayTheNinth)<br>⛓️‍💥 Prioritizing open-source!<br>🧑‍💻 Java, C, Python, Dart, JavaScript.<br>🏞️ Arch-Linux (btw)<br>⚡ OSINT-based investigation hobbyist! Reach out to malory@onenetbeyond.org if you'd like to solicit an investigation/data report.<br>🕵️ Freedom of Information matters! Learn about [TailsOS](https://tails.net) & [Autistici/Inventati](https://www.autistici.org/), my email provider of choice. 
+⛏️ Minecraft Mod Developer & Server Hoster/Manager - **DM for consultations!**<br>🧑‍🔬 Developers who have inspired me: [Motschen](https://github.com/Motschen), [Saiyan](https://gitlab.com/supersaiyansubtlety),
+[Init](https://codeberg.org/xtrm), [Rina](https://github.com/Pixaurora), [Hibi](https://github.com/hibiii), [Blay](https://github.com/BlayTheNinth)<br>⛓️‍💥 Prioritizing open-source!<br>🧑‍💻 Java, C, Python, Dart, JavaScript.<br>🏞️ Arch-Linux (btw)<br>⚡ OSINT-based investigation hobbyist! Reach out to malory@onenetbeyond.org if you'd like to solicit an investigation/data report.<br>🕵️ Freedom of Information matters! Learn about [TailsOS](https://tails.net) & [Autistici/Inventati](https://www.autistici.org/), my email provider of choice. 
 
 
 ## 🌐 Socials:
